@@ -4,7 +4,7 @@ html{
 }
 body{
   text-align:center;
-  background:url('http://one-div.com/codepen/menu/bg.jpg')no-repeat;
+  background:url('http://one-div.com/codepen/menu/bg.jpg')repeat;
   	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
